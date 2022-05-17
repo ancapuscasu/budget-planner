@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/budget-planner/static/css/main.910e655d.css",
-    "main.js": "/budget-planner/static/js/main.448e88a0.js",
+    "main.css": "/budget-planner/static/css/main.1eca6c12.css",
+    "main.js": "/budget-planner/static/js/main.e83bd166.js",
     "index.html": "/budget-planner/index.html",
-    "main.910e655d.css.map": "/budget-planner/static/css/main.910e655d.css.map",
-    "main.448e88a0.js.map": "/budget-planner/static/js/main.448e88a0.js.map"
+    "main.1eca6c12.css.map": "/budget-planner/static/css/main.1eca6c12.css.map",
+    "main.e83bd166.js.map": "/budget-planner/static/js/main.e83bd166.js.map"
   },
   "entrypoints": [
-    "static/css/main.910e655d.css",
-    "static/js/main.448e88a0.js"
+    "static/css/main.1eca6c12.css",
+    "static/js/main.e83bd166.js"
   ]
 }
